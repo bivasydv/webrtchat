@@ -4,5 +4,5 @@
 
 window.briefingConfig = {
    ROOM_URL: 'https://bivasydv.github.io/webrtchat/',
-  ROOM_PATH: '/webrtchat/'
+  ROOM_PATH: '/'
 }
