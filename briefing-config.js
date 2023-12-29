@@ -4,5 +4,5 @@
 
 window.briefingConfig = {
    ROOM_URL: 'https://webrtchat.vercel.app/',
-  ROOM_PATH: '/'
+  ROOM_PATH: '/room/'
 }
